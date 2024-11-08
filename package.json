@@ -1,5 +1,5 @@
 {
-  "name": "iptv-playlist-parser",
+  "name": "@michatec/iptv-playlist-parser",
   "version": "0.12.2",
   "description": "A basic IPTV playlist parser",
   "main": "src/index.js",
