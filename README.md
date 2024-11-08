@@ -1,4 +1,4 @@
-# iptv-playlist-parser [![Build Status](https://app.travis-ci.com/michatec/iptv-playlist-parser.svg?branch=master)](https://app.travis-ci.com/michatec/iptv-playlist-parser)
+# iptv-playlist-parser
 
 It parses IPTV playlist and converts it to a regular JavaScript object.
 
