@@ -29,8 +29,8 @@
     "testRegex": "tests/(.*?/)?.*test.js$"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/core": "^8.0.0",
+    "@babel/preset-env": "^8.0.0",
     "jest": "^30.0.0"
   },
   "dependencies": {
